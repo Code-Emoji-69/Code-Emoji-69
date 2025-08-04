@@ -64,9 +64,9 @@
 ---
 
 <!-- CYBERPUNK FOOTER GIF -->
-<p align="center">
+ <!-- <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="350" />
-</p>
+</p>-->
 
 <p align="center">
   <b>“Code is poetry, and I'm the storyteller.”</b>
