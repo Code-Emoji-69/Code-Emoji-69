@@ -24,7 +24,9 @@
 
 - 📫 Reach me: **rony.chaudhary.007@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1srRkr6gWqbHpDMFY_MtdzbhRIBogAqgO/view?usp=sharing)
+- 📄 [Resume for Experienced ](https://drive.google.com/file/d/1srRkr6gWqbHpDMFY_MtdzbhRIBogAqgO/view?usp=sharing)
+- 📄 [Resume for Fresher](https://drive.google.com/file/d/1vjhokX28tmxsjrvU8Bwm5H6mpcCwV4c4/view?usp=sharing)
+
 
 - ⚡ Fun fact: `My most-used command: Ctrl + Z 😏`
 
